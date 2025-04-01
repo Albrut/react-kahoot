@@ -8,7 +8,6 @@ export function Register() {
                 <h2 className="register-heading">Регистрация</h2>
                 <form className="register-form">
                     <input type="text" placeholder="Имя" className="register-input-field" />
-                    <input type="email" placeholder="Email" className="register-input-field" />
                     <input type="password" placeholder="Пароль" className="register-input-field" />
                     <button className="submit-button">Зарегистрироваться</button>
                 </form>
