@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./HomePage.jsx";
-import Login from "./Login.jsx";
-import Game from "./Game.jsx";
-import {Register} from "./Register.jsx";
+import Home from "./pages/HomePage.jsx";
+import Login from "./pages/Login.jsx";
+import Game from "./pages/Game.jsx";
+import {Register} from "./pages/Register.jsx";
 
 export default function AppRoutes() {
     return (

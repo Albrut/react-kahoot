@@ -17,6 +17,7 @@ package-lock.json
 *.sln
 *.sw?
 
+dev
 # Build output
 dist/
 build/
